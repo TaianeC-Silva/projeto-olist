@@ -10,14 +10,16 @@ Nome 2
 ## 🎯 Objetivo
 Responder às seguintes perguntas de negócio:
 
-Por que as vendas estão caindo?
-Quem são os melhores clientes?
-Entrega impacta satisfação?
-Quais categorias performam melhor?
+1. Por que as vendas estão caindo?
+2. Quem são os melhores clientes?
+3. Entrega impacta satisfação?
+4. Quais categorias performam melhor?
+
 🛠️ Ferramentas utilizadas
 Power BI
 SQL
-Python (opcional)
+Python
+
 📂 Estrutura do projeto
 /data → dados tratados
 /scripts → SQL / Python
